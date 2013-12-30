@@ -57,11 +57,11 @@ em {
   text-align: left;
 }
 
-#nameInput {
+input[placeholder="Name"] {
   width: 26%;
 }
 
-#messageInput {
+input[placeholder="Message..."] {
   width: 68%;
 }
 
